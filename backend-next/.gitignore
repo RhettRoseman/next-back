@@ -9,6 +9,8 @@
 # testing
 /coverage
 
+#packages
+package-lock.json
 # next.js
 /.next/
 /out/
