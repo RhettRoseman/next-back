@@ -11,7 +11,7 @@ THEN I will go to Postman/Insomnia and see if the route work
 THEN I see my routes are succesful 
 
 ## Commands 
-``` npm run dev   ```
+``` npm run dev ```
 ## Technologies 
 
 - Typescript
