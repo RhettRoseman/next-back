@@ -1,6 +1,6 @@
 # next-back
 
-## api routes with typescript 
+## api GET and POST routes with typescript 
 
 IF I want my routes to work 
 
