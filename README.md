@@ -6,7 +6,7 @@ IF I want my routes to work
 
 THEN I will run ``` npm run dev ``` in my terminal
 
-THEN I will go to Postman/Insomnia and see if the route work 
+THEN I will go to Postman/Insomnia and see if my GET/POST routes work
 
 THEN I see my routes are succesful 
 
