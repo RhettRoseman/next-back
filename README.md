@@ -2,9 +2,9 @@
 
 ## api GET and POST routes with typescript 
 
-IF I want my routes to work 
+IF I want to test my GET/POST routes to work 
 
-THEN I will run ``` npm run dev ``` in my terminal
+THEN I will run ``` npm run dev ``` in my terminal and start the server
 
 THEN I will go to Postman/Insomnia and see if my GET/POST routes work
 
